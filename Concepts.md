@@ -1,6 +1,4 @@
 
-Addresses 
-
 BlockChains
 
 Blocks
@@ -11,15 +9,25 @@ Snapshots
 
 Token Supply & Cap
 
+Addresses 
+
 Confirmation (or "Block") Time
 
 Transaction Fees
 
+Transaction Speed
+
 Transaction Traceability  
+
+Micro-Transaction
 
 Market Capitalization
 
 Node Atomicity
+
+Node Plenum
+
+Seeds 
 
 Privacy
 
@@ -36,3 +44,8 @@ Verifiable
 Mining
 
 Emission Curve
+
+Back-end Usability
+
+Consensus * Arbitation Mechanisms
+

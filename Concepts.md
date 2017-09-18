@@ -23,6 +23,8 @@ Micro-Transaction
 
 Market Capitalization
 
+Node
+
 Node Atomicity
 
 Node Plenum

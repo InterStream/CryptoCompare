@@ -33,6 +33,8 @@ Privacy
 
 Security
 
+Smart Contracts
+
 White Papers
 
 Yellow Papers

@@ -21,6 +21,8 @@ Transaction Traceability
 
 Micro-Transaction
 
+Intrinsics (Transforms, State Mutation, & Checkpoints) 
+
 Market Capitalization
 
 Node

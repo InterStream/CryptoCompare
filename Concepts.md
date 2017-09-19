@@ -23,6 +23,8 @@ Transaction Input
 
 Micro-Transaction
 
+State vs. Messaging
+
 Intrinsics (Transforms, State Mutation, & Checkpoints) 
 
 Market Capitalization

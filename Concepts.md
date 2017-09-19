@@ -19,6 +19,8 @@ Transaction Speed
 
 Transaction Traceability  
 
+Transaction Input
+
 Micro-Transaction
 
 Intrinsics (Transforms, State Mutation, & Checkpoints) 
@@ -56,3 +58,5 @@ Back-end Usability
 Consensus * Arbitation Mechanisms
 
 Quantum Secure
+
+Sidechains

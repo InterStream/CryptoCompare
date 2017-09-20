@@ -1,5 +1,6 @@
 Bitcoin
 Ethereum
+EOS
 IOTA
 Dash
 Zcash

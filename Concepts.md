@@ -23,13 +23,11 @@ Transaction Input
 
 Micro-Transaction
 
-Intrinsics (Transforms, State Mutation, & Checkpoints) 
+Intrinsics (Transforms, State Mutation, Atomicity, & Checkpoints) 
 
 Market Capitalization
 
 Node
-
-Node Atomicity
 
 Node Plenum
 

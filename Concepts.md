@@ -25,6 +25,8 @@ Micro-Transaction
 
 Intrinsics (Transforms, State Mutation, Atomicity, & Checkpoints) 
 
+State vs. Messaging
+
 Market Capitalization
 
 Node

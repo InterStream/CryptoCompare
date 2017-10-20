@@ -60,3 +60,7 @@ Consensus * Arbitation Mechanisms
 Quantum Secure
 
 Sidechains
+
+Orphan Risk/Rate
+
+Propagation Impedance

@@ -11,4 +11,3 @@ A Survey of Consensus based Distributed Ledger Systems
 
 [Attack Vectors](https://github.com/interstream/CryptoCompare/AttackVectors.md)
 
-DataStructures.md  CoreAlgos.md Comparison.md AttackVectors.md

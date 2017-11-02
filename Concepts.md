@@ -50,6 +50,8 @@ Snapshots
 
 State vs. Messaging
 
+Temporal Logic Specification
+
 Token Supply & Cap
 
 Transaction Fees
@@ -62,8 +64,9 @@ Transaction Input
 
 Turing Complete
 
-Yellow Papers
+Verifiable
 
 White Papers
 
-Verifiable
+Yellow Papers
+

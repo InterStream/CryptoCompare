@@ -1,17 +1,56 @@
+Addresses 
+
+Back-end Usability
 
 BlockChains
 
 Blocks
 
+Byzantine Agreement
+
+Cryptographic Sortition
+
+Confirmation (or "Block") Time
+
+Consensus * Arbitation Mechanisms
+
+Emission Curve
+
 Graphs
+
+Intrinsics (Transforms, State Mutation, Atomicity, & Checkpoints) 
+
+Market Capitalization
+
+Micro-Transaction
+
+Mining
+
+Node
+
+Node Plenum
+
+Orphan Risk/Rate
+
+Privacy
+
+Propagation Impedance
+
+Quantum Secure
+
+Security
+
+Seeds 
+
+Sidechains
+
+Smart Contracts
 
 Snapshots
 
+State vs. Messaging
+
 Token Supply & Cap
-
-Addresses 
-
-Confirmation (or "Block") Time
 
 Transaction Fees
 
@@ -21,46 +60,10 @@ Transaction Traceability
 
 Transaction Input
 
-Micro-Transaction
-
-Intrinsics (Transforms, State Mutation, Atomicity, & Checkpoints) 
-
-State vs. Messaging
-
-Market Capitalization
-
-Node
-
-Node Plenum
-
-Seeds 
-
-Privacy
-
-Security
-
-Smart Contracts
-
-White Papers
+Turing Complete
 
 Yellow Papers
 
-Turing Complete
+White Papers
 
 Verifiable
-
-Mining
-
-Emission Curve
-
-Back-end Usability
-
-Consensus * Arbitation Mechanisms
-
-Quantum Secure
-
-Sidechains
-
-Orphan Risk/Rate
-
-Propagation Impedance

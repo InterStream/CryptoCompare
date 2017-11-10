@@ -8,8 +8,6 @@ Blocks
 
 Byzantine Agreement
 
-Cryptographic Sortition
-
 Confirmation (or "Block") Time
 
 Consensus * Arbitation Mechanisms

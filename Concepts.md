@@ -1,12 +1,14 @@
 Addresses 
 
+Asynchronous and Synhronous Byzantine Agreement
+
 Back-end Usability
 
 BlockChains
 
 Blocks
 
-Byzantine Agreement
+Byzantine Fault Tolerance vs. Probabilistic Concensus
 
 Confirmation (or "Block") Time
 

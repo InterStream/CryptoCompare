@@ -2,7 +2,7 @@ Blocks
 
 Chains
 
-(Directed Acyclic Graphs (DAGs)](http://cryptowiki.net/index.php?title=Blockchain-free_cryptocurrencies))
+(Directed Acyclic Graphs (DAGs)[http://cryptowiki.net/index.php?title=Blockchain-free_cryptocurrencies])
 
 Merkle Trees
 

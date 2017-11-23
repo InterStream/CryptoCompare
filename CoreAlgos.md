@@ -12,9 +12,12 @@ Sharding
 
 Byantine Agreement Algorithms
     Proof of Work
-    Proof of Steak
+    Peer Voting
+    Proof of Stake (incl. Leader Based Voting)
 
 Hybrid Verfication BA Algorithms
     Monte Carlo Confirmations
     Cryptographic Sortition
+    Leader Selection
 
+Gossip Protocols

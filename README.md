@@ -9,5 +9,5 @@ A Survey of Consensus based Distributed Ledger Systems
 
 [Select Crypto Coin Comparison](https://github.com/interstream/CryptoCompare/Comparison.md)
 
-[Attack Vectors](https://github.com/interstream/CryptoCompare/AttackVectors.md)
+[Attacks & Adversaries](https://github.com/interstream/CryptoCompare/AttackVectors.md)
 

@@ -1,3 +1,10 @@
-Sybil Attack
+## Attacks 
 
-Long Range Attack
+Sybil
+
+Long Range
+
+Latency Variation
+
+## Adversaries
+

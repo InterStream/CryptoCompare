@@ -5,6 +5,7 @@ DAG Coin
 DAGLabs
 Ethereum
 EOS
+Hashgraph
 IOTA
 Monero
 Spectre

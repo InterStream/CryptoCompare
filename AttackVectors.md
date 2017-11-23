@@ -1,4 +1,4 @@
-## Attacks 
+## Vulnerability Classes 
 
 Sybil
 
@@ -12,3 +12,10 @@ Simulated Economies
 
 ## Adversaries
 
+Quora
+
+External
+
+Ledger Protocol Exploits
+
+Implementation Defects

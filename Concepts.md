@@ -28,7 +28,11 @@ Node
 
 Node Plenum
 
+Non-Permissioned Public Networks
+
 Orphan Risk/Rate
+
+Permissioned Private Networks
 
 Privacy
 

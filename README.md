@@ -21,4 +21,4 @@ Crash & Asynchronous/Synchronous Byzantine Fault Tolerance
 
 Cryptography
 
-Programming Languages, Compiler Technology, & Chomsky Grammars
+Programming Languages, Compiler Technology, & Chomsky Grammar Types

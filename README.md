@@ -1,5 +1,5 @@
 ## CryptoCompare
-A Survey of Distributed Ledger Technologies and Protocols
+Distributed Ledger Technologies and Protocols Survey
 
 ### Core Competency Requirements
 

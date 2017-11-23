@@ -1,5 +1,5 @@
-# CryptoCompare
-A Survey of Consensus based Distributed Ledger Systems
+## CryptoCompare
+A Survey of Consensus based Distributed Ledger Technologies and Protocols
 
 [Concepts](https://github.com/interstream/CryptoCompare/Concepts.md)
 
@@ -11,3 +11,14 @@ A Survey of Consensus based Distributed Ledger Systems
 
 [Attacks & Adversaries](https://github.com/interstream/CryptoCompare/AttackVectors.md)
 
+### Core Competency Requirements
+
+Austrian School Economics
+
+Game Theory
+
+Crash & Asynchronous/Synchronous Byzantine Fault Tolerance
+
+Cryptography
+
+Programming Languages, Compiler Technology, & Chomsky Grammars

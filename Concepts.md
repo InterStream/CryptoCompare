@@ -12,6 +12,8 @@ Confirmation (or "Block") Time
 
 Consensus * Arbitation Mechanisms
 
+Cryptographic Primitives
+
 Emission Curve
 
 Graphs

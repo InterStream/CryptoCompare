@@ -1,9 +1,13 @@
+Algorand
 Bitcoin
+Dash
+DAG Coin
+DAGLabs
 Ethereum
 EOS
+Hashgraph
 IOTA
-Dash
-Zcash
-Spectre
 Monero
+Spectre
 Tezos
+Zcash

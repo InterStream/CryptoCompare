@@ -1,18 +1,22 @@
 Addresses 
 
+Asynchronous and Synhronous Byzantine Agreement
+
 Back-end Usability
 
 BlockChains
 
 Blocks
 
-Byzantine Agreement
-
-Cryptographic Sortition
+Byzantine Fault Tolerance vs. Probabilistic Concensus
 
 Confirmation (or "Block") Time
 
-Consensus * Arbitation Mechanisms
+Concensus Arbitation Mechanisms
+
+Concensus Epoch
+
+Cryptographic Primitives
 
 Emission Curve
 
@@ -30,7 +34,11 @@ Node
 
 Node Plenum
 
+Non-Permissioned Public Networks
+
 Orphan Risk/Rate
+
+Permissioned Private Networks
 
 Privacy
 

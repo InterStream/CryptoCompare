@@ -1,13 +1,27 @@
-# CryptoCompare
-A Survey of Consensus based Distributed Ledger Systems
+## CryptoCompare
+Distributed Ledger Technologies and Protocols Survey
 
-[Concepts](https://github.com/interstream/CryptoCompare/Concepts.md)
+### Core Competency Requirements
 
-[Core Data Structures](https://github.com/interstream/CryptoCompare/DataStructures.md)
+Austrian School Economics
 
-[Core Cryptographic Algorithms](https://github.com/interstream/CryptoCompare/CoreAlgos.md) (Signing, Hashing, Dereferencing)
+Game Theory
 
-[Select Crypto Coin Comparison](https://github.com/interstream/CryptoCompare/Comparison.md)
+Crash & Asynchronous/Synchronous Byzantine Fault Tolerance
 
-[Attack Vectors](https://github.com/interstream/CryptoCompare/AttackVectors.md)
+Cryptography
+
+Programming Languages, Compiler Technology, & Chomsky Grammar Types
+
+### Links
+
+[Concepts](https://github.com/interstream/CryptoCompare/blob/master/Concepts.md)
+
+[Core Data Structures](https://github.com/interstream/CryptoCompare/blob/master/DataStructures.md)
+
+[Core Cryptographic Algorithms](https://github.com/interstream/CryptoCompare/blob/master/CoreAlgos.md) (Signing, Hashing, Dereferencing)
+
+[Select Crypto Coin Comparison](https://github.com/interstream/CryptoCompare/blob/master/Comparison.md)
+
+[Attacks & Adversaries](https://github.com/interstream/CryptoCompare/blob/master/AttackVectors.md)
 

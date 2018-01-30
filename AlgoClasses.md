@@ -7,3 +7,5 @@ Voting Based Systems
 Gossip Protocol
 
 Gossip about Gossip
+
+Gossip Period
